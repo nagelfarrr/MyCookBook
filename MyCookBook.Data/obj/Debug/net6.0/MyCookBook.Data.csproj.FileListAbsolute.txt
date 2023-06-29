@@ -1,0 +1,17 @@
+D:\MyCookBook\MyCookBook.Data\bin\Debug\net6.0\MyCookBook.Data.deps.json
+D:\MyCookBook\MyCookBook.Data\bin\Debug\net6.0\MyCookBook.Data.runtimeconfig.json
+D:\MyCookBook\MyCookBook.Data\bin\Debug\net6.0\MyCookBook.Data.dll
+D:\MyCookBook\MyCookBook.Data\bin\Debug\net6.0\MyCookBook.Data.pdb
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.csproj.AssemblyReference.cache
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.AssemblyInfoInputs.cache
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.AssemblyInfo.cs
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.csproj.CoreCompileInputs.cache
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.dll
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\refint\MyCookBook.Data.dll
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.pdb
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.genruntimeconfig.cache
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\ref\MyCookBook.Data.dll
+D:\MyCookBook\MyCookBook.Data\bin\Debug\net6.0\MyCookBook.Common.dll
+D:\MyCookBook\MyCookBook.Data\bin\Debug\net6.0\MyCookBook.Common.pdb
+D:\MyCookBook\MyCookBook.Data\obj\Debug\net6.0\MyCookBook.Data.csproj.CopyComplete

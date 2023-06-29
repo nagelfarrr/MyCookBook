@@ -1,0 +1,12 @@
+D:\MyCookBook\MyCookBook.Common\bin\Debug\net6.0\MyCookBook.Common.deps.json
+D:\MyCookBook\MyCookBook.Common\bin\Debug\net6.0\MyCookBook.Common.dll
+D:\MyCookBook\MyCookBook.Common\bin\Debug\net6.0\MyCookBook.Common.pdb
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\MyCookBook.Common.csproj.AssemblyReference.cache
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\MyCookBook.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\MyCookBook.Common.AssemblyInfoInputs.cache
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\MyCookBook.Common.AssemblyInfo.cs
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\MyCookBook.Common.csproj.CoreCompileInputs.cache
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\MyCookBook.Common.dll
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\refint\MyCookBook.Common.dll
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\MyCookBook.Common.pdb
+D:\MyCookBook\MyCookBook.Common\obj\Debug\net6.0\ref\MyCookBook.Common.dll
