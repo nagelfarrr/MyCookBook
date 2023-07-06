@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyCookBook
 build_property.RootNamespace = MyCookBook
-build_property.ProjectDir = D:\sda\MyCookBook\
+build_property.ProjectDir = D:\sda\MyCookBook\MyCookBook\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\sda\MyCookBook
+build_property.MSBuildProjectDirectory = D:\sda\MyCookBook\MyCookBook
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/sda/MyCookBook/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sda/MyCookBook/Views/Home/Index.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sda/MyCookBook/Views/Home/Privacy.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sda/MyCookBook/Views/Shared/Error.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sda/MyCookBook/Views/Shared/_LoginPartial.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sda/MyCookBook/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sda/MyCookBook/Views/_ViewImports.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sda/MyCookBook/Views/_ViewStart.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sda/MyCookBook/Views/Shared/_Layout.cshtml]
+[D:/sda/MyCookBook/MyCookBook/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hfpaix0upg

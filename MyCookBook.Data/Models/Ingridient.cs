@@ -10,7 +10,12 @@ namespace MyCookBook.Data.Models
 		public int Id { get; set; }
 
 		[Required]
-		[MaxLength(NameMaxLength)]
+		[MaxLength(NameMaxLength, ErrorMessage = NameMaxLengthErrorMessage)]
 		public string Name { get; set; } = null!;
+
+		[Required]
+		[MaxLength(DescriptionMaxLength, ErrorMessage = DescriptionMaxLengthErrorMessage)]
+		public string Description { get; set; } = null!;
+
 	}
 }

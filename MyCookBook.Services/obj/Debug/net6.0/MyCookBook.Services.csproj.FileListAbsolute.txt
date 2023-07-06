@@ -10,3 +10,15 @@ D:\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.dll
 D:\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\refint\MyCookBook.Services.dll
 D:\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.pdb
 D:\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\ref\MyCookBook.Services.dll
+D:\sda\MyCookBook\MyCookBook.Services\bin\Debug\net6.0\MyCookBook.Services.deps.json
+D:\sda\MyCookBook\MyCookBook.Services\bin\Debug\net6.0\MyCookBook.Services.dll
+D:\sda\MyCookBook\MyCookBook.Services\bin\Debug\net6.0\MyCookBook.Services.pdb
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.csproj.AssemblyReference.cache
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.AssemblyInfoInputs.cache
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.AssemblyInfo.cs
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.csproj.CoreCompileInputs.cache
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.dll
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\refint\MyCookBook.Services.dll
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\MyCookBook.Services.pdb
+D:\sda\MyCookBook\MyCookBook.Services\obj\Debug\net6.0\ref\MyCookBook.Services.dll

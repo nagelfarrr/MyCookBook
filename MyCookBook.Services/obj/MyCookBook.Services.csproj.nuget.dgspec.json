@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sda\\MyCookBook.Services\\MyCookBook.Services.csproj": {}
+    "D:\\sda\\MyCookBook\\MyCookBook.Services\\MyCookBook.Services.csproj": {}
   },
   "projects": {
-    "D:\\sda\\MyCookBook.Services\\MyCookBook.Services.csproj": {
+    "D:\\sda\\MyCookBook\\MyCookBook.Services\\MyCookBook.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sda\\MyCookBook.Services\\MyCookBook.Services.csproj",
+        "projectUniqueName": "D:\\sda\\MyCookBook\\MyCookBook.Services\\MyCookBook.Services.csproj",
         "projectName": "MyCookBook.Services",
-        "projectPath": "D:\\sda\\MyCookBook.Services\\MyCookBook.Services.csproj",
+        "projectPath": "D:\\sda\\MyCookBook\\MyCookBook.Services\\MyCookBook.Services.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\sda\\MyCookBook.Services\\obj\\",
+        "outputPath": "D:\\sda\\MyCookBook\\MyCookBook.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

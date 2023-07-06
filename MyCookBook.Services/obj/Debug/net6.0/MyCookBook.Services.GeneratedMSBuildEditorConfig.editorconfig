@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyCookBook.Services
-build_property.ProjectDir = D:\sda\MyCookBook.Services\
+build_property.ProjectDir = D:\sda\MyCookBook\MyCookBook.Services\

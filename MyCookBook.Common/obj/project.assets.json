@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sda\\MyCookBook.Common\\MyCookBook.Common.csproj",
+      "projectUniqueName": "D:\\sda\\MyCookBook\\MyCookBook.Common\\MyCookBook.Common.csproj",
       "projectName": "MyCookBook.Common",
-      "projectPath": "D:\\sda\\MyCookBook.Common\\MyCookBook.Common.csproj",
+      "projectPath": "D:\\sda\\MyCookBook\\MyCookBook.Common\\MyCookBook.Common.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\sda\\MyCookBook.Common\\obj\\",
+      "outputPath": "D:\\sda\\MyCookBook\\MyCookBook.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/5a2pOVMy5tMP9oxHXCFGzllQJsuNfvdbK8/nAu1uTQr3H98YihvwnxsPAK6QKgkvmjOeGN1+bqk2dOOtYfZQ==",
+  "dgSpecHash": "FWI3vNg+M16UcUOgcWBA64h5dWNL2NyKgAlGy9tFWfaVrRqs4pvh7UYfGwpCsAy0InrvNPl5tY4VL3GK1dZ0Kw==",
   "success": true,
-  "projectFilePath": "D:\\sda\\MyCookBook.Common\\MyCookBook.Common.csproj",
+  "projectFilePath": "D:\\sda\\MyCookBook\\MyCookBook.Common\\MyCookBook.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

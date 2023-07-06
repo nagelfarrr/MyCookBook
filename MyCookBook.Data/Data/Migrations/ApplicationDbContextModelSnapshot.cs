@@ -279,14 +279,201 @@ namespace MyCookBook.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasMaxLength(150)
+                        .HasColumnType("nvarchar(150)");
+
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
                     b.HasKey("Id");
 
                     b.ToTable("Ingridients");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "A mineral substance used for seasoning and preserving food.",
+                            Name = "Salt"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "A sweet crystalline substance used as a sweetener and flavor enhancer.",
+                            Name = "Sugar"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "A fine powder made by grinding grains, beans, or seeds.",
+                            Name = "Flour"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "A liquid fat extracted from olives, commonly used in cooking.",
+                            Name = "Olive Oil"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Description = "A dairy product made by churning cream, often used for cooking or baking.",
+                            Name = "Butter"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Description = "A pungent bulbous plant used as a seasoning in various cuisines.",
+                            Name = "Garlic"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Description = "A vegetable with a strong, pungent taste used as a flavoring ingredient.",
+                            Name = "Onion"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Description = "A red or yellowish fruit with a juicy pulp, commonly used in cooking.",
+                            Name = "Tomato"
+                        },
+                        new
+                        {
+                            Id = 9,
+                            Description = "A domesticated bird commonly used for its meat in various recipes.",
+                            Name = "Chicken"
+                        },
+                        new
+                        {
+                            Id = 10,
+                            Description = "The meat of cattle, often used for steaks, roasts, and other dishes.",
+                            Name = "Beef"
+                        },
+                        new
+                        {
+                            Id = 11,
+                            Description = "A limbless aquatic creature commonly consumed as food.",
+                            Name = "Fish"
+                        },
+                        new
+                        {
+                            Id = 12,
+                            Description = "A dough-based food commonly made from wheat flour.",
+                            Name = "Pasta"
+                        },
+                        new
+                        {
+                            Id = 13,
+                            Description = "A cereal grain widely consumed as a staple food.",
+                            Name = "Rice"
+                        },
+                        new
+                        {
+                            Id = 14,
+                            Description = "An opaque white liquid produced by the mammary glands of mammals.",
+                            Name = "Milk"
+                        },
+                        new
+                        {
+                            Id = 15,
+                            Description = "A dairy product derived from milk, often used as a topping or ingredient.",
+                            Name = "Cheese"
+                        },
+                        new
+                        {
+                            Id = 16,
+                            Description = "The oval reproductive bodies laid by female animals, often used in cooking.",
+                            Name = "Eggs"
+                        },
+                        new
+                        {
+                            Id = 17,
+                            Description = "A leavening agent used in baking to make dough rise.",
+                            Name = "Baking Powder"
+                        },
+                        new
+                        {
+                            Id = 18,
+                            Description = "A concentrated liquid flavoring made from vanilla beans.",
+                            Name = "Vanilla Extract"
+                        },
+                        new
+                        {
+                            Id = 19,
+                            Description = "A fragrant spice derived from the bark of certain trees.",
+                            Name = "Cinnamon"
+                        },
+                        new
+                        {
+                            Id = 20,
+                            Description = "A seedused as a spice, typically grated or ground.",
+                            Name = "Nutmeg"
+                        },
+                        new
+                        {
+                            Id = 21,
+                            Description = "An aromatic herb commonly used in Mediterranean cuisine.",
+                            Name = "Basil"
+                        },
+                        new
+                        {
+                            Id = 22,
+                            Description = "A herb with small aromatic leaves, often used in cooking.",
+                            Name = "Thyme"
+                        },
+                        new
+                        {
+                            Id = 23,
+                            Description = "An evergreen herb with needle-like leaves, used for flavoring.",
+                            Name = "Rosemary"
+                        },
+                        new
+                        {
+                            Id = 24,
+                            Description = "An herb with flat or curly leaves, commonly used as a garnish or flavoring.",
+                            Name = "Parsley"
+                        },
+                        new
+                        {
+                            Id = 25,
+                            Description = "A yellow citrus fruit with acidic juice, used for its flavor and juice.",
+                            Name = "Lemon"
+                        },
+                        new
+                        {
+                            Id = 26,
+                            Description = "A green citrus fruit with acidic juice, used for its flavor and juice.",
+                            Name = "Lime"
+                        },
+                        new
+                        {
+                            Id = 27,
+                            Description = "A hot pepper used to add spiciness and flavor to dishes.",
+                            Name = "Chili Pepper"
+                        },
+                        new
+                        {
+                            Id = 28,
+                            Description = "A ground spice made from dried red peppers, used for color and flavor.",
+                            Name = "Paprika"
+                        },
+                        new
+                        {
+                            Id = 29,
+                            Description = "A condiment made from fermented soybeans, used for its savory flavor.",
+                            Name = "Soy Sauce"
+                        },
+                        new
+                        {
+                            Id = 30,
+                            Description = "A sweet viscous substance produced by bees, used as a natural sweetener.",
+                            Name = "Honey"
+                        });
                 });
 
             modelBuilder.Entity("MyCookBook.Data.Models.Instruction", b =>

@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "Name": "Salt",
+    "Description": "A mineral substance used for seasoning and preserving food."
+  },
+  {
+    "Id": 2,
+    "Name": "Sugar",
+    "Description": "A sweet crystalline substance used as a sweetener and flavor enhancer."
+  },
+  {
+    "Id": 3,
+    "Name": "Flour",
+    "Description": "A fine powder made by grinding grains, beans, or seeds."
+  },
+  {
+    "Id": 4,
+    "Name": "Olive Oil",
+    "Description": "A liquid fat extracted from olives, commonly used in cooking."
+  },
+  {
+    "Id": 5,
+    "Name": "Butter",
+    "Description": "A dairy product made by churning cream, often used for cooking or baking."
+  },
+  {
+    "Id": 6,
+    "Name": "Garlic",
+    "Description": "A pungent bulbous plant used as a seasoning in various cuisines."
+  },
+  {
+    "Id": 7,
+    "Name": "Onion",
+    "Description": "A vegetable with a strong, pungent taste used as a flavoring ingredient."
+  },
+  {
+    "Id": 8,
+    "Name": "Tomato",
+    "Description": "A red or yellowish fruit with a juicy pulp, commonly used in cooking."
+  },
+  {
+    "Id": 9,
+    "Name": "Chicken",
+    "Description": "A domesticated bird commonly used for its meat in various recipes."
+  },
+  {
+    "Id": 10,
+    "Name": "Beef",
+    "Description": "The meat of cattle, often used for steaks, roasts, and other dishes."
+  },
+  {
+    "Id": 11,
+    "Name": "Fish",
+    "Description": "A limbless aquatic creature commonly consumed as food."
+  },
+  {
+    "Id": 12,
+    "Name": "Pasta",
+    "Description": "A dough-based food commonly made from wheat flour."
+  },
+  {
+    "Id": 13,
+    "Name": "Rice",
+    "Description": "A cereal grain widely consumed as a staple food."
+  },
+  {
+    "Id": 14,
+    "Name": "Milk",
+    "Description": "An opaque white liquid produced by the mammary glands of mammals."
+  },
+  {
+    "Id": 15,
+    "Name": "Cheese",
+    "Description": "A dairy product derived from milk, often used as a topping or ingredient."
+  },
+  {
+    "Id": 16,
+    "Name": "Eggs",
+    "Description": "The oval reproductive bodies laid by female animals, often used in cooking."
+  },
+  {
+    "Id": 17,
+    "Name": "Baking Powder",
+    "Description": "A leavening agent used in baking to make dough rise."
+  },
+  {
+    "Id": 18,
+    "Name": "Vanilla Extract",
+    "Description": "A concentrated liquid flavoring made from vanilla beans."
+  },
+  {
+    "Id": 19,
+    "Name": "Cinnamon",
+    "Description": "A fragrant spice derived from the bark of certain trees."
+  },
+  {
+    "Id": 20,
+    "Name": "Nutmeg",
+    "Description": "A seedused as a spice, typically grated or ground."
+  },
+  {
+    "Id": 21,
+    "Name": "Basil",
+    "Description": "An aromatic herb commonly used in Mediterranean cuisine."
+  },
+  {
+    "Id": 22,
+    "Name": "Thyme",
+    "Description": "A herb with small aromatic leaves, often used in cooking."
+  },
+  {
+    "Id": 23,
+    "Name": "Rosemary",
+    "Description": "An evergreen herb with needle-like leaves, used for flavoring."
+  },
+  {
+    "Id": 24,
+    "Name": "Parsley",
+    "Description": "An herb with flat or curly leaves, commonly used as a garnish or flavoring."
+  },
+  {
+    "Id": 25,
+    "Name": "Lemon",
+    "Description": "A yellow citrus fruit with acidic juice, used for its flavor and juice."
+  },
+  {
+    "Id": 26,
+    "Name": "Lime",
+    "Description": "A green citrus fruit with acidic juice, used for its flavor and juice."
+  },
+  {
+    "Id": 27,
+    "Name": "Chili Pepper",
+    "Description": "A hot pepper used to add spiciness and flavor to dishes."
+  },
+  {
+    "Id": 28,
+    "Name": "Paprika",
+    "Description": "A ground spice made from dried red peppers, used for color and flavor."
+  },
+  {
+    "Id": 29,
+    "Name": "Soy Sauce",
+    "Description": "A condiment made from fermented soybeans, used for its savory flavor."
+  },
+  {
+    "Id": 30,
+    "Name": "Honey",
+    "Description": "A sweet viscous substance produced by bees, used as a natural sweetener."
+  }
+]

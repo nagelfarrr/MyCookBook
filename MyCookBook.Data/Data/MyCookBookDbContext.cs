@@ -2,14 +2,20 @@
 using Microsoft.EntityFrameworkCore;
 using MyCookBook.Data.Models;
 
+using Newtonsoft.Json;
+
 namespace MyCookBook.Data
 {
 	public class MyCookBookDbContext : IdentityDbContext
 	{
+		
+
 		public MyCookBookDbContext(DbContextOptions<MyCookBookDbContext> options)
 			: base(options)
 		{
 		}
+
+		private List<Ingridient> IngridientsImport { get; set; }
 
 		public DbSet<Equipment> Equipments { get; set; } = null!;
 		public DbSet<EquipmentRequirement> EquipmentRequirements { get; set; } = null!;
@@ -33,8 +39,23 @@ namespace MyCookBook.Data
 				.WithMany(u => u.Comments)
 				.OnDelete(DeleteBehavior.NoAction);
 
+			SeedIngridients();
+			builder
+				.Entity<Ingridient>()
+				.HasData(IngridientsImport);
+
 			base.OnModelCreating(builder);
 		}
+
+
+		private void SeedIngridients()
+		{
+			string inputJsonIngridients = File.ReadAllText(@"..\MyCookBook.Data\Datasets\IngridientsData.json");
+
+			IngridientsImport = JsonConvert.DeserializeObject<List<Ingridient>>(inputJsonIngridients);
+
+		}
+
 	}
 
 }
